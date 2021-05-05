@@ -1,5 +1,7 @@
 # CRUD con JSP y MySQL
 
+<img width="100px" src="jsp.svg"> <img width="200px" src="mysql.svg">
+
 Con el fin de superar la parte del temario correspondiente a JSP y el acceso a bases de datos desde Java, el alumno deberá realizar como ejercicio una aplicación tipo CRUD – alta, listado, modificación y borrado – sobre la información almacenada en una base de datos MySQL.
 
 Se deja a criterio del alumno la elección de la base de datos. Puede ser una base de datos con información sobre productos, vehículos, empleados, alumnos, profesores, libros, mascotas o cualquier otra información. Dos alumnos no pueden hacer el CRUD exactamente sobre la misma temática. Si dos temáticas coinciden, se descarta la que corresponda a un commit posterior en el índice de repositorios.
