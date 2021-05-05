@@ -1,6 +1,6 @@
 # CRUD con JSP y MySQL
 
-<img width="160px" src="java.svg"> <img width="120px" src="jsp.svg"> <img width="200px" src="mysql.svg"> <img width="150px" src="html.svg">
+<img width="160px" src="java.svg"> <img width="120px" src="jsp.svg"> <img width="200px" src="mysql.svg"> <img width="140px" src="html.svg">
  <img width="100px" src="css.svg">
 
 
