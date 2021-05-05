@@ -1,7 +1,7 @@
 # CRUD con JSP y MySQL
 
-<img width="160px" src="java.svg"> <img width="120px" src="jsp.svg"> <img width="200px" src="mysql.svg"> <img width="140px" src="html.svg">
- <img width="100px" src="css.svg">
+<img width="160px" src="java.svg"> <img width="120px" src="jsp.svg"> <img width="200px" src="mysql.svg"> <img width="130px" src="html.svg">
+ <img width="90px" src="css.svg">
 
 
 Con el fin de superar la parte del temario correspondiente a JSP y el acceso a bases de datos desde Java, el alumno deberá realizar como ejercicio una aplicación tipo CRUD – alta, listado, modificación y borrado – sobre la información almacenada en una base de datos MySQL.
