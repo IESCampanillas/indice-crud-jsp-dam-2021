@@ -16,7 +16,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos, su nombre, el 
 
 * Apellidos, Nombre - [Título del CRUD](enlace al repositorio)
 * Lopez Lozano, Santos - [Fate/Data Base](https://github.com/SantosLopezLozano/Fate-Data_Base.git)
-* López Pérez, Cruz - [Clínica Nilo](https://github.com/mcruzlp/CRUD.git)
+* López Pérez, Cruz - [Clínica Nilo](https://github.com/mcruzlp/CRUD_ClinicaNilo.git)
       
 ## Requisitos mínimos
 
