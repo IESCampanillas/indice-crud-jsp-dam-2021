@@ -16,7 +16,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos, su nombre, el 
 
 * Lopez Lozano, Santos - [Fate/Data Base](https://github.com/SantosLopezLozano/Fate-Data_Base.git)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/CRUD_ClinicaNilo.git)
-* Egea Hermoso, Adrián - [Mi Filmoteca](https://github.com/AdrianEgeaHermoso/Mi_Filmoteca.git)
+* Egea Hermoso, Adrián - [Mi Filmoteca](https://github.com/AdrianEgeaHermoso/Mi-Filmoteca)
 * Millón Cortés, Manuel Alejandro - [Gestión Apartamentos](https://github.com/ManuelMillon/crudProgramacion.git)
 * Morales Aragón, Marcos - [U-Fit](https://github.com/MarcosMoralesAragon/U-Fit)
 * Fabián El Belaizi, Daniel - [CRUD-JSP](https://github.com/Danny-06/CRUD-JSP)
