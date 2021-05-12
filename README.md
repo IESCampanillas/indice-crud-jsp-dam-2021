@@ -14,7 +14,6 @@ Este ejercicio es obligatorio para aprobar el tercer trimestre para los alumnos 
 
 Cada alumno debe editar este `README.md` y añadir sus apellidos, su nombre, el título del CRUD y un enlace al repositorio de la aplicación.
 
-* Apellidos, Nombre - [Título del CRUD](enlace al repositorio)
 * Lopez Lozano, Santos - [Fate/Data Base](https://github.com/SantosLopezLozano/Fate-Data_Base.git)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/CRUD_ClinicaNilo.git)
 * Egea Hermoso, Adrián - [Mi Filmoteca](https://github.com/AdrianEgeaHermoso/Mi_Filmoteca.git)
