@@ -66,4 +66,4 @@ Se debe ir actualizando el repositorio con frecuencia, no hay que esperar a que 
 
 **La exposición del CRUD se realizará de forma presencial en el aula de 1º DAM el miércoles 26 de mayo en el horario de la asignatura de Programación.**
 
-:star: Si te ha gustado este repo, dale una estrellita :wink:
+Si te ha gustado este repo, dale una :star: ¡Gracias!
