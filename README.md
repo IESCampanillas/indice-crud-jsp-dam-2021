@@ -38,7 +38,7 @@ Las características opcionales son las siguientes:
 * Restricción de ciertas páginas y/o funcionalidades de la aplicación según el rol: usuario sin loguear, usuario logueado o administrador. Esto dependerá mucho de la aplicación, por ejemplo, puede haber una landing page accesible a todos los usuarios, una parte donde se puedan realizar distintas operaciones como usuario logueado y otra parte (o algunas funcionalidades) solo accesible al administrador/es.
 * Utilización de algún framework CSS como Bootstrap, Foundation, Materialize, etc.
 
-## Repositorio de GitHub
+## :octocat:	Repositorio de GitHub
 
 La aplicación debe estar subida a GitHub y el repositorio correspondiente debe estar enlazado en este mismo fichero, en el apartado **Índice a los repositorios de las aplicaciones**
 
