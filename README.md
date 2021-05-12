@@ -49,7 +49,7 @@ El repositorio debe contener lo siguiente:
 * Capturas de pantalla comentadas de TODAS las páginas de la aplicación.
 * Enlace al video descriptivo en Youtube.
 
-## Video descriptivo en Youtube
+## :tv: Video descriptivo en Youtube
 
 Se debe grabar un video en el que se explique el funcionamiento de la aplicación así como la estructura de archivos y lo más relevante del código. No se debe explicar el código línea a línea, solo lo más importante. El video estará subido a Youtube y deberá estar enlazado desde el repositorio. No se admiten videos enlazados a Drive, a Vimeo o a otras plataformas. La duración mínima es de 4 minutos y la máxima de 10 minutos.
 
