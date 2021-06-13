@@ -21,7 +21,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos, su nombre, el 
 * Morales Aragón, Marcos - [U-Fit](https://github.com/MarcosMoralesAragon/U-Fit)
 * Moreno Rodríguez, Javier - [ArkData](https://github.com/Javiemr/FinalCrudProg)
 * Fabián El Belaizi, Daniel - [Tienda Informática](https://github.com/Danny-06/Tienda-Informatica)
-* Sicilia Pérez, Francisco Javier - [Catálogo superheoes](https://github.com/FranSiciliaPerez/CRUD-Progra-FranciscoJavierSP)
+* Sicilia Pérez, Francisco Javier - [Listado superheoes](https://github.com/FranSiciliaPerez/CRUD-Progra-FranciscoJavierSP)
       
 ## Requisitos mínimos
 
